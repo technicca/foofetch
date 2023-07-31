@@ -1,4 +1,4 @@
-<p align="center"><img alt="Archey 4 complete preview" src="https://github.com/technicca/dump/blob/main/Screenshot%20from%202023-07-31%2014-38-29.png?raw=true"></p>
+<p align="center"><img src="[https://github.com/technicca/dump/blob/main/Screenshot%20from%202023-07-31%2014-38-29.png?raw=true](https://github.com/technicca/dump/blob/main/foofetch.png?raw=true)"></p>
 
 ## Installation:
 ```
